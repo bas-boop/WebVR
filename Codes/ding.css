@@ -1,3 +1,28 @@
 body {
     background-color: black;
 }
+.top-bar {
+    width: auto;
+    height: 100%;
+    background-color: white;
+    display: flex; justify-content: space-between;
+}
+#lam-logo {
+    width: auto;
+    height: 90px;
+    margin: 5px;
+    margin-left: 250px;
+}
+h2 {
+    color: #707070;
+    font-size: 40px;
+}
+#title {
+    background-color: #A1724E;
+    width: 700px;
+    margin: auto;
+    margin-top: 50px;
+    padding-left: 300px;
+    border: border: 2px solid #A1724E;
+    border-radius: 12px;
+}
