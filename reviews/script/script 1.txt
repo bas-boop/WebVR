@@ -1,0 +1,22 @@
+Script 1 voor review 1
+
+Intro:
+Welkom bij de eerste review van dit project van Bas en Monique. Ik ben uw voice over "Bob the sound cloud rapper". Ik ga u vertellen wat er gemaakt is in sprint 1 van dit project. Het project is een WebXR maken voor het museum LAM.
+
+Wireframe:
+Dit is onze wireframe. Het doel is dus ook dat dit het gaat worden. Zo als u kunt zien is de website in night mode, want dat is fijner voor de ogen.
+Wat u ook kunt zien hebben we de zelfde groep kleur gebruikt, want anders wordt het een niet fijne aanzicht voor de ogen. Het aandachts punt is natuurlijk het VR gedeelt van de website, daarom hoef je alleen naar benden te scrollen om het te zien.
+Natuurlijk wil je na het bekijken van het VR kaartjes kopen, daarom scroll je veder naar beneden om naar de kaartjes kopen knop te gaan.
+
+Github:
+Om als developer een goede product te maken moet je een plek hebben voor alle bestanden, daarom gebruiken we Github. Zo als u kunt zien is het al vol op gebruik met alle bestanden die er zijn.
+
+Plannig:
+Voor een goed product heb je een goede planning nodig. Hiervoor hebben we het programma Trello in gebruirk. Hier hebben we elke sprint en kerst vakantie met alle punten/onderdelen van het project.
+Elk punt/onderdeel heeft 4 dingen: een status, een grote, een beschrijving en de mensen die er aan werken. Dit hebben we besloten omdat het handig is om dat te gaan doen.
+
+Nu:
+Wat we tot nu toe hebben is niet veel maar genoeg voor een begin. Door wat coderen hebben we een top-bar en een titel met een blokje er om heen.
+
+Outro:
+Dit project wordt gemaakt door Bas de Reus en Monique. "Bob the sound cloud rapper" gaat nu zelf promotie doen.
