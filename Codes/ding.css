@@ -58,4 +58,23 @@ h2 {
     background-color: white;
     width: 1280px;
     height: 720px;
+    margin: 10px auto;
+    /*font-size: 150px;*/
+}
+#kaart {
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 12px;
+    margin: 10px auto;
+    width: 500px;
+    height: 200px;
+}
+#kaartjes {
+    background-color: #A1724E;
+    margin: 20px auto;
+    width: 165px;
+    height: 25px;
+    border: 2px solid #919191;
+    border-radius: 12px;
+    padding: 4px;
 }
