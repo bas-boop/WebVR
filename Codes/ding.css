@@ -55,11 +55,10 @@ h2 {
     border-radius: 12px;
 }
 #VR {
-    background-color: white;
-    width: 1280px;
+    background-color: wheat;
+    width: 1300px;
     height: 720px;
     margin: 10px auto;
-    /*font-size: 150px;*/
 }
 #kaart {
     background-color: white;
@@ -68,13 +67,30 @@ h2 {
     margin: 10px auto;
     width: 500px;
     height: 200px;
+    display: flex;
+    color: #707070;
 }
 #kaartjes {
     background-color: #A1724E;
     margin: 20px auto;
     width: 165px;
-    height: 25px;
+    height: 16px;
     border: 2px solid #919191;
     border-radius: 12px;
     padding: 4px;
+    text-decoration: none;
+    margin: 90px 0px;
+}
+#kaartjes:hover {
+    background-color: rgb(116, 83, 58)
+}
+footer {
+    background-color: wheat;
+    color: #707070;
+    padding: 10px 30px;
+    margin: 0px auto;
+    display: flex;
+}
+footer section {
+    flex: 25%;
 }
