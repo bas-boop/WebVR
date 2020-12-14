@@ -94,3 +94,14 @@ footer {
 footer section {
     flex: 25%;
 }
+footer a {
+    background-color: #A1724E;
+    margin: 20px auto;
+    width: 165px;
+    height: 16px;
+    border: 2px solid #919191;
+    border-radius: 12px;
+    padding: 4px;
+    text-decoration: none;
+    margin: 90px 0px;
+}
