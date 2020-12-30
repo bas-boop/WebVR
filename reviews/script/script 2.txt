@@ -1,0 +1,24 @@
+Script 2 voor review 2
+
+Intro:
+Welkom bij de tweede review van dit project van Bas en Monique.
+Ik ben uw voice over "Bob Ross the sound cloud rapper".
+Ik ga u vertellen wat er gemaakt is in sprint 2 van dit project. Het project is een WebXR maken voor het museum LAM.
+
+Toen:
+In de vorige sprint hadden we weinig.
+Het leek niet eens op de wireframe.
+Er was alleen een titel een een blok met tekst.
+Maar nu niet meer.
+
+Nu:
+Op dit moment is de website af. Alles van de wireframe is er. De top-bar, een blokje met een titel, ander blok met een standbeeld en wat tekst,
+een blok waar het VR komt, een plek om kaartjes te kopen en contact gegevens.
+Ook zijn de kleuren fijn om naar te kijken. En niet te vergeten, de KNOPJES.
+
+Later:
+Dit was natuurlijk niet alles, want het doel is er nog niet. Ik praat over het VR gedeelte van de website.
+Dat gaan we in de aankomende 2 weken maken natuurlijk.
+
+Outro:
+Dit project wordt gemaakt door Bas de Reus en Monique. Bob Ross the sound cloud rapper: random bullshit go.
