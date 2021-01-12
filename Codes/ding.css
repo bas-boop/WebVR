@@ -6,13 +6,16 @@ body {
     width: auto;
     height: 100%;
     background-color: white;
-    display: flex; justify-content: space-between;
+    display: flex;
 }
 #lam-logo {
     width: auto;
     height: 90px;
     margin: 5px;
-    margin-left: 250px;
+    margin-left: 25%;
+}
+#titel {
+    margin-left: 25%;
 }
 h2 {
     color: #707070;
@@ -37,22 +40,13 @@ h2 {
     border-radius: 12px;
     margin-left: 150px;
     font-size: 18px;
+    padding: 0px 10px;
 }
 #rechts {
     color: #707070;
-    width: 300px;
     height: 200px;
     margin-left: 850px;
     margin-top: -200px;
-}
-#title {
-    background-color: #A1724E;
-    width: 700px;
-    margin: auto;
-    margin-top: 50px;
-    padding-left: 300px;
-    border: 2px solid #A1724E;
-    border-radius: 12px;
 }
 #VR {
     background-color: wheat;
@@ -61,28 +55,28 @@ h2 {
     margin: 10px auto;
 }
 #kaart {
-    background-color: white;
-    border: 2px solid white;
+    background-color: lime;
+    border: 2px solid lime;
     border-radius: 12px;
-    margin: 10px auto;
+    margin: 50px auto;
     width: 500px;
-    height: 200px;
+    height: 60px;
     display: flex;
     color: #707070;
 }
 #kaartjes {
-    background-color: #A1724E;
+    background-color: red;
     margin: 20px auto;
     width: 165px;
     height: 16px;
-    border: 2px solid #919191;
+    border: 2px solid lime;
     border-radius: 12px;
     padding: 4px;
     text-decoration: none;
-    margin: 90px 0px;
+    margin: 15px 0px;
 }
 #kaartjes:hover {
-    background-color: rgb(116, 83, 58)
+    background-color: yellow
 }
 footer {
     background-color: wheat;
