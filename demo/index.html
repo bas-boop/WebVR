@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LAM VR</title>
+    <link rel="stylesheet" href="ding.css">
+    <script src="library/aframe.js"></script>
+    <script src="library/ma-webxr.js" defer></script>
+    <script src="app.js" defer></script>
+    <style>
+      a-scene {
+        width: 1300px;
+        height: 720px;
+      }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <a href="https://www.lamlisse.nl/"><img src="Lam_logo.png" id="lam-logo"></a>
+    </div>
+    <div class="BovenGedeelte">
+        <div id="title">
+            <h2>Beleef het museum in 3D</h2>
+        </div>
+        <div id="blok">
+            <div id="links">
+                <p>Wil u het museum thuis bezoeken? Dat kan nu met deze VR ervaring. Hieronder kan u de beleving beginnen. Met behulp van de pijltjes en u muis kan u door de kamer heen lopen. U kan hier onder ander het standbeeld van het plaatje hiernaast zien.</p>
+            </div>
+            <div id="rechts">
+                <img src="suikerblokjesman.jpg" alt="suikerblokjesman" id="suikerblokjesman" style="width:300px;height:200px;">
+            </div>
+        </div>
+    <div id="VR">
+        <a-scene background="color: white" embedded></a-scene>
+    </div>
+    <div id="kaart">
+        <section><p>Vond u deze ervaring leuk? Dan vindt u het museum in het echt nog leuker.</p></section>
+        <section><div id="kaartjes">
+            <a href="https://tickets.lamlisse.nl/hetLAM/ctrl/orderentry/event/ef9607ba-7274-40e6-a3c5-47730e6216e2/index.php/nl-NL" target="_blank" class="big-link">Koop hier uw kaartjes!</a>
+        </div></section>
+    </div>
+    <footer>
+        <section><h1>Postbus 224<br>
+        2170 AE Sassenheim <br>
+        Keukenhof 14 2161 AN Lisse</h1></section>
+        <section><h1>Dit is gemaakt door: <br>
+        Bas de reus <br>
+        Monique Wienholds</h1></section>
+        <section id="footer-botton"><form action="https://www.instagram.com/lamlisse/" class="inline">
+            <button class="float-left submit-button" >Instagram</button>
+        </form>
+        <form action="https://www.facebook.com/LAMLisse/" class="inline">
+            <button class="float-left submit-button" >Facebook</button>
+        </form>
+        <form action="https://www.linkedin.com/company/lam-museum?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId%3A3274852191468588835719%2CVSRPtargetId%3A10255621%2CVSRPcmpt%3Aprimary" class="inline">
+            <button class="float-left submit-button" >In</button>
+        </form>
+        <p>(mooie knopjes, dat weet ik)</p>
+        </section>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,96 @@
+body {
+    background-color: black;
+    font-family: sans-serif;
+}
+.top-bar {
+    width: auto;
+    height: 100%;
+    background-color: white;
+    display: flex; justify-content: space-between;
+}
+#lam-logo {
+    width: auto;
+    height: 90px;
+    margin: 5px;
+    margin-left: 250px;
+}
+h2 {
+    color: #707070;
+    font-size: 40px;
+}
+#blok {
+    background-color:  #A1724E;
+    height: 225px;
+    width: 1300px;
+    padding-top: 25px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border: 2px solid #A1724E;
+    border-radius: 12px;
+}
+#links {
+    color: #707070;
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    border: 2px solid white;
+    border-radius: 12px;
+    margin-left: 150px;
+    font-size: 18px;
+}
+#rechts {
+    color: #707070;
+    width: 300px;
+    height: 200px;
+    margin-left: 850px;
+    margin-top: -200px;
+}
+#title {
+    background-color: #A1724E;
+    width: 700px;
+    margin: auto;
+    margin-top: 50px;
+    padding-left: 300px;
+    border: 2px solid #A1724E;
+    border-radius: 12px;
+}
+#VR {
+    background-color: wheat;
+    width: 1300px;
+    height: 720px;
+    margin: 10px auto;
+}
+#kaart {
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 12px;
+    margin: 10px auto;
+    width: 500px;
+    height: 200px;
+    display: flex;
+    color: #707070;
+}
+#kaartjes {
+    background-color: #A1724E;
+    margin: 20px auto;
+    width: 165px;
+    height: 16px;
+    border: 2px solid #919191;
+    border-radius: 12px;
+    padding: 4px;
+    text-decoration: none;
+    margin: 90px 0px;
+}
+#kaartjes:hover {
+    background-color: rgb(116, 83, 58)
+}
+footer {
+    background-color: wheat;
+    color: #707070;
+    padding: 10px 30px;
+    margin: 0px auto;
+    display: flex;
+}
+footer section {
+    flex: 25%;
+}
