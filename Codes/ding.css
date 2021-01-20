@@ -40,7 +40,7 @@ h2 {
     border-radius: 12px;
     margin-left: 150px;
     font-size: 18px;
-    padding: 0px 10px;
+    padding: 0px 20px;
 }
 #rechts {
     color: #707070;
@@ -59,10 +59,11 @@ h2 {
     border: 2px solid lime;
     border-radius: 12px;
     margin: 50px auto;
-    width: 500px;
+    width: 530px;
     height: 60px;
     display: flex;
     color: #707070;
+    padding: 7px 15px;
 }
 #kaartjes {
     background-color: red;
@@ -74,15 +75,16 @@ h2 {
     padding: 4px;
     text-decoration: none;
     margin: 15px 0px;
+    padding: 10px;
 }
 #kaartjes:hover {
-    background-color: yellow
+    background-color: #A1724E
 }
 footer {
     background-color: wheat;
     color: #707070;
     padding: 10px 30px;
-    margin: 0px auto;
+    margin: 10px auto;
     display: flex;
 }
 footer section {
@@ -95,7 +97,7 @@ footer a {
     height: 16px;
     border: 2px solid #919191;
     border-radius: 12px;
-    padding: 4px;
+    padding: 6px;
     text-decoration: none;
     margin: 90px 0px;
 }
